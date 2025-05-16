@@ -1,0 +1,1 @@
+const t={"sample-post.js":{createdAt:"2025-05-16T12:59:08-07:00",updatedAt:"2025-05-16T12:59:08-07:00"},"thoughts-on-language.js":{createdAt:"2025-05-16T12:59:08-07:00",updatedAt:"2025-05-16T12:59:08-07:00"}};export{t as default};
